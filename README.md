@@ -1,3 +1,3 @@
 ��# greener
 Get all files for Green Ridge Landscape.
-Practice Project
+Practice Project for JS and PHP
